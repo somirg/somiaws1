@@ -15,5 +15,14 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1692.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somirg/somiaws1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/somirg/somiaws1/issues"
+  },
+  "homepage": "https://github.com/somirg/somiaws1#readme"
 }
